@@ -26,11 +26,11 @@
     "columnify": "^1.6.0",
     "commander": "^8.3.0",
     "gpg": "^0.6.0",
-    "jssha": "^3.2.0",
+    "jssha": "^3.3.1",
     "prompt": "^1.1.0",
     "request": "^2.88.0",
     "tough-cookie-file-store": "^1.2.0",
-    "validator": "^13.7.0",
+    "validator": "^13.12.0",
     "xregexp": "^5.1.0"
   },
   "devDependencies": {
